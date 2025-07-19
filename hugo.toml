@@ -5,5 +5,27 @@ theme = "tailbliss"
 
 [params]
 moto = "From compliance to creativity."
-description = "Fairese is a software consultancy led by Sergio Andrés Ibañez Kautsch (known professionally as Andy Ibanez), an iOS developer with a background in aviation, banking, and fintech. He delivers reliable, high-quality software without the overhead of a big agency, and is the author of Modern Concurrency on Apple Platforms."
+description = "Fairese is a one-man software consultancy led by Sergio Andrés Ibañez Kautsch (known professionally as Andy Ibanez), an iOS developer with a background in aviation, banking, and fintech. He delivers reliable, high-quality software without the overhead of a big agency, and is the author of Modern Concurrency on Apple Platforms."
 author = "Sergio Andrés Ibañez Kautsch"
+
+[params.p1]
+heading = "How I Work"
+image = "images/pages/fairese-liquid-glass.png"
+
+[[params.p1.content]]
+text = "Every project I take on is guided by two forces: precision and imagination. My background in aviation, banking, and fintech has trained me to think in terms of systems, safety, and structure — but I believe the best software also needs clarity, warmth, and purpose."
+
+[[params.p1.content]]
+text = "I don’t build disposable code or rush toward MVPs. I build things to last — tools that solve real problems cleanly and scale with calm confidence."
+
+[[params.p1.content]]
+text = "I work closely with clients, not as a vendor, but as a technical partner. That means thoughtful scoping, honest communication, and careful execution from the first commit to the final handoff."
+
+[[params.p1.content]]
+text = "Whether it’s an internal platform or a public-facing app, my goal is the same: to deliver software that feels quietly exceptional — well-architected, elegantly implemented, and easy to live with."
+
+[[params.p1.content]]
+text = "I work with AI, not against it — but I don’t confuse automation with authorship. When you hire me, you’re not getting a prompt engineer. You’re getting a partner who knows when to trust the machine — and when to override it."
+
+[[params.p1.content]]
+text = "If that sounds like the kind of collaboration you're looking for — let’s talk."
