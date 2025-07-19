@@ -10,7 +10,7 @@ author = "Sergio Andrés Ibañez Kautsch"
 
 [params.p1]
 heading = "How I Work"
-image = "images/pages/fairese-liquid-glass.png"
+image = "images/pages/how-i-work.png"
 
 [[params.p1.content]]
 text = "Every project I take on is guided by two forces: precision and imagination. My background in aviation, banking, and fintech has trained me to think in terms of systems, safety, and structure — but I believe the best software also needs clarity, warmth, and purpose."
@@ -29,3 +29,19 @@ text = "I work with AI, not against it — but I don’t confuse automation with
 
 [[params.p1.content]]
 text = "If that sounds like the kind of collaboration you're looking for — let’s talk."
+
+[params.p2]
+heading = "Why Fairese Works For You"
+image = "images/pages/hacktoberfest.jpg"
+
+[[params.p2.content]]
+text = "I'm aligned with U.S. time zones, operate from Bolivia, and speak fluent English. I bring the clarity of a senior engineer — without the layers of a big firm. You'll work directly with me: no project managers, no account executives, just fast, honest collaboration with someone who actually ships."
+
+[[params.p2.content]]
+text = "I adapt to your workflow, not the other way around. Whether you use GitHub, Notion, Jira, or something else entirely — I integrate seamlessly and keep communication tight. Need async updates? Daily standups? Weekly demos? Done."
+
+[[params.p2.content]]
+text = "I take pride in delivering code that’s readable, tested, and production-ready. But I also know when to move fast and simplify. I don’t pad estimates."
+
+[[params.p2.content]]
+text = "You’re not just hiring someone to code — you’re hiring someone who will think with you. I challenge assumptions, surface edge cases, and bring creative clarity to the messiest ideas. That’s why clients trust me with core systems and long-term work."
