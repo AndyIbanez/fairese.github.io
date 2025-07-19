@@ -15,14 +15,20 @@
                     </p>
                 </div>
                 <div class="col-span-6">
-                    {{ $hero := resources.GetMatch "images/pages/tailbliss-rocket-indigo.png" }}
+{{ $hero := resources.GetMatch "images/pages/fairese-liquid-glass.png" }}
 
-                    {{ $thumb := ($hero.Fill "400x400 webp q90") }}
-                    {{ $large := ($hero.Fill "576x576 webp q90") }}
+{{ if $hero }}
+  {{ $thumb := ($hero.Resize "400x webp q90") }}
+  {{ $large := ($hero.Resize "576x webp q90") }}
 
-                    <img srcset="
-                        {{- with $thumb.RelPermalink -}}{{.}} 400w{{- end -}}
-                        {{- with $large.RelPermalink -}}, {{.}} 576w{{- end -}}" src="{{ $hero.RelPermalink }}" width="100%" height="" alt="TailBliss Hero" class="w-full max-w-xl mx-auto rounded-lg" />
+  <img
+    srcset="{{ $thumb.RelPermalink }} 400w, {{ $large.RelPermalink }} 576w"
+    src="{{ $thumb.RelPermalink }}"
+    alt="Fairese"
+    class="w-[512px] mx-auto rounded-lg" />
+{{ else }}
+  <p class="text-red-500">Image not found</p>
+{{ end }}
                 </div>
             </div>
         </div>

@@ -2,3 +2,8 @@ baseURL = "https://fairese.com/"
 languageCode = "en-us"
 title = "Fairese"
 theme = "tailbliss"
+
+[params]
+moto = "From compliance to creativity."
+description = "Fairese is a software consultancy led by Sergio Andrés Ibañez Kautsch (known professionally as Andy Ibanez), an iOS developer with a background in aviation, banking, and fintech. He delivers reliable, high-quality software without the overhead of a big agency, and is the author of Modern Concurrency on Apple Platforms."
+author = "Sergio Andrés Ibañez Kautsch"
