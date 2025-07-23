@@ -45,3 +45,33 @@ text = "I take pride in delivering code that’s readable, tested, and productio
 
 [[params.p2.content]]
 text = "You’re not just hiring someone to code — you’re hiring someone who will think with you. I challenge assumptions, surface edge cases, and bring creative clarity to the messiest ideas. That’s why clients trust me with core systems and long-term work."
+
+[params.p3]
+heading = "Clients who trust my code"
+
+[[params.p3.content]]
+text = "I’ve helped mission-critical teams across industries — from aviation to banking — build the software they depend on every day. Whether it’s internal tools or production systems, my work supports high-stakes operations with clarity and reliability."
+
+[[params.p3.links]]
+text = "Meet the teams I’ve supported"
+url = "#"
+
+[[params.p3.logos]]
+identifier = "a"
+image = "images/global/sample-logo.svg"
+alt = "a"
+
+[[params.p3.logos]]
+identifier = "b"
+
+[[params.p3.logos]]
+identifier = "c"
+
+[[params.p3.logos]]
+identifier = "d"
+
+[[params.p3.logos]]
+identifier = "e"
+
+[[params.p3.logos]]
+identifier = "f"
