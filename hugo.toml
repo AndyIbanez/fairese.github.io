@@ -57,21 +57,25 @@ text = "Meet the teams I’ve supported"
 url = "#"
 
 [[params.p3.logos]]
-identifier = "a"
-image = "images/global/sample-logo.svg"
-alt = "a"
+image = "images/pages/bnb-logo.png"
+alt = "BNB"
 
 [[params.p3.logos]]
-identifier = "b"
+image = "images/pages/bts-logo.png"
+alt = "BTS"
 
 [[params.p3.logos]]
-identifier = "c"
+image = "images/pages/dacia-logo.png"
+alt = "Dacia"
 
 [[params.p3.logos]]
-identifier = "d"
+image = "images/pages/renault-logo.png"
+alt = "Renault"
 
 [[params.p3.logos]]
-identifier = "e"
+image = "images/pages/sharetec-logo.png"
+alt = "Sharetec"
 
 [[params.p3.logos]]
-identifier = "f"
+image = "images/pages/trax-logo.png"
+alt = "Trax"
