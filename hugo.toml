@@ -47,7 +47,7 @@ text = "I take pride in delivering code that’s readable, tested, and productio
 text = "You’re not just hiring someone to code — you’re hiring someone who will think with you. I challenge assumptions, surface edge cases, and bring creative clarity to the messiest ideas. That’s why clients trust me with core systems and long-term work."
 
 [params.p3]
-heading = "Clients who trust my code"
+heading = "Clients who trust my work"
 
 [[params.p3.content]]
 text = "I’ve helped mission-critical teams across industries — from aviation to banking — build the software they depend on every day. Whether it’s internal tools or production systems, my work supports high-stakes operations with clarity and reliability."
@@ -57,12 +57,12 @@ text = "Meet the teams I’ve supported"
 url = "#"
 
 [[params.p3.logos]]
-image = "images/pages/bnb-logo.png"
-alt = "BNB"
+image = "images/pages/trax-logo.png"
+alt = "Trax"
 
 [[params.p3.logos]]
-image = "images/pages/bts-logo.png"
-alt = "BTS"
+image = "images/pages/sharetec-logo.png"
+alt = "Sharetec"
 
 [[params.p3.logos]]
 image = "images/pages/dacia-logo.png"
@@ -73,9 +73,9 @@ image = "images/pages/renault-logo.png"
 alt = "Renault"
 
 [[params.p3.logos]]
-image = "images/pages/sharetec-logo.png"
-alt = "Sharetec"
+image = "images/pages/bnb-logo.png"
+alt = "BNB"
 
 [[params.p3.logos]]
-image = "images/pages/trax-logo.png"
-alt = "Trax"
+image = "images/pages/bts-logo.png"
+alt = "BTS"
