@@ -6,7 +6,7 @@ title = 'Fairese'
 
 ### Fairese LLC: Native iOS Expertise from the Andes
 
-Fairese LLC is a U.S.-registered software company founded by Sergio Andrés Ibañez Kautsch (also known as [Andy Ibanez](https://andyibanez.com)). While officially based in the United States, all development takes place remotely from Bolivia, a location that offers strong time zone overlap with U.S. clients, reliable infrastructure, and the ability to work with deep focus and autonomy.
+Fairese LLC is a U.S.-registered software company founded by Sergio Andrés Ibañez Kautsch, also known as [Andy Ibanez](https://andyibanez.com). While officially based in the United States, all development takes place remotely from Bolivia — a country of striking natural beauty, where the snowcapped Illimani towers over La Paz and the salt flats of Uyuni stretch across the Altiplano. With reliable infrastructure, strong overlap with U.S. time zones, and a quiet focus-friendly environment, Bolivia makes an ideal base for high-quality remote work.
 
 ---
 
@@ -36,6 +36,7 @@ Whether you're a solo founder, a growing startup, or an established enterprise, 
 - Familiar with international workflows, clients, and expectations
 - Available during U.S. working hours
 - Comfortable adapting to your team’s tools and processes
+- Open to working with European clients, as long as there’s a reasonable overlap in working hours — full-day European schedules aren't required
 
 ---
 
