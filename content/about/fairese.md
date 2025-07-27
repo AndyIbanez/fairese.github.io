@@ -1,7 +1,7 @@
 +++
 date = '2025-07-27T19:06:45-04:00'
-draft = true
-title = 'Fairese'
+draft = false
+title = 'About Fairese'
 +++
 
 ### Fairese LLC: Native iOS Expertise from the Andes
@@ -14,7 +14,7 @@ Fairese LLC is a U.S.-registered software company founded by Sergio Andrés Iba�
 
 iOS development has been a focus since 2011, starting in the era of Objective-C. Over the years, expertise has grown to include Swift, SwiftUI, Combine, WidgetKit, App Intents, CoreData, SwiftData, and more. The work stays aligned with Apple’s direction by following WWDC sessions, beta releases, and the Swift evolution process.
 
-Apps built under Fairese are properly architected — with modular design, mockable services, and long-term maintainability in mind. Rather than over-customizing UIs for novelty, Fairese emphasizes native design principles, ensuring each app feels at home on iOS while still reflecting the client’s brand identity.
+Apps built under Fairese are properly architected with modular design, mockable services, and long-term maintainability in mind. Rather than over-customizing UIs for novelty, Fairese emphasizes native design principles, ensuring each app feels at home on iOS while still reflecting the client’s brand identity.
 
 ---
 
