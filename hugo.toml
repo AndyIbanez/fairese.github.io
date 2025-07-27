@@ -79,3 +79,65 @@ alt = "BNB"
 [[params.p3.logos]]
 image = "images/pages/bts-logo.png"
 alt = "BTS"
+
+[menu]
+
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  pre = "dropdown"
+  weight = 10
+
+    [[menu.about]]
+    identifier = "about-fairese"
+    name = "About Fairese"
+    url = "/about/fairese/"
+    weight = 1
+
+    [[menu.about]]
+    identifier = "about-andy"
+    name = "About Andy Ibanez"
+    url = "/about/andy/"
+    weight = 2
+
+  [[menu.main]]
+  identifier = "work"
+  name = "Work"
+  pre = "dropdown"
+  weight = 20
+
+    [[menu.work]]
+    identifier = "clients"
+    name = "Clients"
+    url = "/clients/"
+    weight = 1
+
+    [[menu.work]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 2
+
+  [[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 30
+
+  [[menu.main]]
+  identifier = "contact"
+  name = "Contact Me"
+  pre = "dropdown"
+  weight = 40
+
+    [[menu.contact]]
+    identifier = "hire"
+    name = "Hire Me"
+    url = "/hire/"
+    weight = 1
+
+    [[menu.contact]]
+    identifier = "other"
+    name = "Something else"
+    url = "/contact/other/"
+    weight = 2
