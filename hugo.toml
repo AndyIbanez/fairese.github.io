@@ -13,47 +13,47 @@ heading = "How I Work"
 image = "images/pages/how-i-work.png"
 
 [[params.p1.content]]
-text = "Every project I take on is guided by two forces: precision and imagination. My background in aviation, banking, and fintech has trained me to think in terms of systems, safety, and structure — but I believe the best software also needs clarity, warmth, and purpose."
+text = "Every project Fairese takes on is guided by two forces: precision and imagination. With a background in aviation, banking, and fintech, the team brings a mindset shaped by systems, safety, and structure — while still believing the best software needs clarity, warmth, and purpose."
 
 [[params.p1.content]]
-text = "I don’t build disposable code or rush toward MVPs. I build things to last — tools that solve real problems cleanly and scale with calm confidence."
+text = "Fairese doesn't build disposable code or chase MVPs. The focus is on long-lasting tools that solve real problems cleanly and scale with calm confidence."
 
 [[params.p1.content]]
-text = "I work closely with clients, not as a vendor, but as a technical partner. That means thoughtful scoping, honest communication, and careful execution from the first commit to the final handoff."
+text = "Clients work with Fairese not as a vendor, but as a technical partner. That means thoughtful scoping, honest communication, and careful execution from the first commit to the final handoff."
 
 [[params.p1.content]]
-text = "Whether it’s an internal platform or a public-facing app, my goal is the same: to deliver software that feels quietly exceptional — well-architected, elegantly implemented, and easy to live with."
+text = "Whether it’s an internal platform or a public-facing app, the goal remains the same: to deliver software that feels quietly exceptional — well-architected, thoughtfully implemented, and easy to live with."
 
 [[params.p1.content]]
-text = "I work with AI, not against it — but I don’t confuse automation with authorship. When you hire me, you’re not getting a prompt engineer. You’re getting a partner who knows when to trust the machine — and when to override it."
+text = "Fairese works with AI, not against it — but never confuses automation with authorship. Clients don’t get a prompt engineer. They get a partner who knows when to trust the machine — and when to override it."
 
 [[params.p1.content]]
-text = "If that sounds like the kind of collaboration you're looking for — let’s talk."
+text = "If that sounds like the kind of collaboration you're looking for — Fairese is ready to help."
 
 [params.p2]
 heading = "Why Fairese Works For You"
 image = "images/pages/hacktoberfest.jpg"
 
 [[params.p2.content]]
-text = "I'm aligned with U.S. time zones, operate from Bolivia, and speak fluent English. I bring the clarity of a senior engineer — without the layers of a big firm. You'll work directly with me: no project managers, no account executives, just fast, honest collaboration with someone who actually ships."
+text = "Fairese operates from Bolivia with full alignment to U.S. time zones and native-level English fluency. Clients engage directly with a senior engineer — without layers of project managers or account executives. The result is fast, honest collaboration with a partner who actually ships."
 
 [[params.p2.content]]
-text = "I adapt to your workflow, not the other way around. Whether you use GitHub, Notion, Jira, or something else entirely — I integrate seamlessly and keep communication tight. Need async updates? Daily standups? Weekly demos? Done."
+text = "Rather than impose a process, Fairese adapts to the client’s workflow. Whether it's GitHub, Notion, Jira, or custom tooling — integration is seamless and communication remains tight. Async updates, daily standups, or weekly demos are all supported."
 
 [[params.p2.content]]
-text = "I take pride in delivering code that’s readable, tested, and production-ready. But I also know when to move fast and simplify. I don’t pad estimates."
+text = "Every deliverable is production-ready: readable, tested code designed for long-term stability. Fairese also understands when speed matters — simplifying with purpose and never padding estimates."
 
 [[params.p2.content]]
-text = "You’re not just hiring someone to code — you’re hiring someone who will think with you. I challenge assumptions, surface edge cases, and bring creative clarity to the messiest ideas. That’s why clients trust me with core systems and long-term work."
+text = "Clients don't just get a coder — they get a thinking partner. Fairese challenges assumptions, surfaces edge cases, and brings creative clarity to complex ideas. That’s why companies trust Fairese with core systems and long-term initiatives."
 
 [params.p3]
-heading = "Clients who trust my work"
+heading = "Clients who trust this work"
 
 [[params.p3.content]]
-text = "I’ve helped mission-critical teams across industries — from aviation to banking — build the software they depend on every day. Whether it’s internal tools or production systems, my work supports high-stakes operations with clarity and reliability."
+text = "Fairese builds on over a decade of experience supporting mission-critical teams across aviation, banking, and fintech. From internal tools to production systems, this work has supported high-stakes operations with clarity, reliability, and long-term maintainability."
 
 [[params.p3.links]]
-text = "Meet the teams I’ve supported"
+text = "Explore past collaborations"
 url = "#"
 
 [[params.p3.logos]]
@@ -97,7 +97,7 @@ alt = "BTS"
     [[menu.about]]
     identifier = "about-andy"
     name = "About Andy Ibanez"
-    url = "/about/andy/"
+    url = "/about/andy-ibanez/"
     weight = 2
 
   [[menu.main]]
@@ -141,3 +141,27 @@ alt = "BTS"
     name = "Something else"
     url = "/contact/other/"
     weight = 2
+
+[[footer]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[footer]]
+identifier = "blog"
+name = "Blog"
+url = "/categories/blog/"
+weight = 20
+
+[[footer]]
+identifier = "news"
+name = "News"
+url = "/categories/news/"
+weight = 30
+
+[[footer]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 50

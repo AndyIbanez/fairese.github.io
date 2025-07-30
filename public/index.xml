@@ -6,8 +6,15 @@
     <description>Recent content on Fairese</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jul 2025 19:06:45 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 21:00:29 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andy Ibanez</title>
+      <link>http://localhost:1313/about/andy-ibanez/</link>
+      <pubDate>Sun, 27 Jul 2025 21:00:29 -0400</pubDate>
+      <guid>http://localhost:1313/about/andy-ibanez/</guid>
+      <description>&lt;h3 id=&#34;andy-ibanez&#34;&gt;Andy Ibanez&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://andyibanez.com&#34;&gt;Andy Ibanez&lt;/a&gt; is a senior software developer with over a decade of experience building native applications for Apple platforms. Based in La Paz, Bolivia, he works internationally under Fairese LLC, combining technical expertise with a philosophy of simplicity and maintainability.&lt;/p&gt;&#xA;&lt;p&gt;Andy began writing iOS apps in 2011. He witnessed — and adopted — every major transition in the Apple development ecosystem, from Objective-C to Swift, from UIKit to SwiftUI, and from imperative code to declarative design. Over the years, he’s built and shipped dozens of apps, modernized legacy systems, and written secure protocols for sensitive industries. His technical range spans both sides of the software timeline: building new apps from scratch and refactoring older codebases for long-term maintainability.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About Fairese</title>
       <link>http://localhost:1313/about/fairese/</link>
@@ -20,7 +27,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 27 Jul 2025 19:06:45 -0400</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;fairese&#34;&gt;About Fairese&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;about/andy&#34;&gt;About Andy Ibanez&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;fairese&#34;&gt;About Fairese&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;about/andy-ibanez&#34;&gt;About Andy Ibanez&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Blog Post 1</title>

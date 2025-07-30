@@ -24,6 +24,8 @@ Fairese LLC has supported both large and small teams — from a Bolivian auto im
 
 Whether you're a solo founder, a growing startup, or an established enterprise, the company can adapt to your pace and technical needs. You can [view past clients here](/clients/).
 
+If your project needs a larger team, Fairese can bring in trusted collaborators such as backend developers, Android engineers, and project managers. These professionals can be subcontracted and managed directly through Fairese, giving you a single point of contact.
+
 - **Credit:** Attribution is appreciated but negotiable. White-label work is accepted.  
 - **Post-launch:** Maintenance and support can continue at an hourly rate after a minimum delivery.  
 - **Remote-first:** All work is done independently. Clear communication and quality execution are top priorities.

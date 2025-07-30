@@ -6,4 +6,4 @@ title = 'About Us'
 
 
 * [About Fairese](fairese)
-* [About Andy Ibanez](about/andy)
+* [About Andy Ibanez](about/andy-ibanez)
