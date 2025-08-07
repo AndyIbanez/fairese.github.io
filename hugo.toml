@@ -9,11 +9,11 @@ description = "Fairese is a one-man software consultancy led by Sergio Andrés I
 author = "Sergio Andrés Ibañez Kautsch"
 
 [params.p1]
-heading = "How I Work"
+heading = "How Fairese Works"
 image = "images/pages/how-i-work.png"
 
 [[params.p1.content]]
-text = "Every project Fairese takes on is guided by two forces: precision and imagination. With a background in aviation, banking, and fintech, the team brings a mindset shaped by systems, safety, and structure — while still believing the best software needs clarity, warmth, and purpose."
+text = "Every project Fairese takes on is guided by two forces: precision and imagination. With a background in aviation, banking, and fintech, Fairese brings a mindset shaped by systems, safety, and structure — while still believing the best software needs clarity, warmth, and purpose."
 
 [[params.p1.content]]
 text = "Fairese doesn't build disposable code or chase MVPs. The focus is on long-lasting tools that solve real problems cleanly and scale with calm confidence."
