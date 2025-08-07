@@ -118,6 +118,12 @@ alt = "BTS"
     url = "/portfolio/"
     weight = 2
 
+    [[menu.work]]
+    identifier = "n8n"
+    name = "n8n Automations"
+    url = "/n8n/"
+    weight = 3
+
   [[menu.main]]
   identifier = "blog"
   name = "Blog"
