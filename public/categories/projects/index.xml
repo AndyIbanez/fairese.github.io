@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Fairese</title>
+    <link>http://localhost:1313/categories/projects/</link>
+    <description>Recent content in Projects on Fairese</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Silvianna</title>
+      <link>http://localhost:1313/work/portfolio/silvianna/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/work/portfolio/silvianna/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+  </channel>
+</rss>

@@ -22,5 +22,19 @@
       <guid>http://localhost:1313/tags/news/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Projects-Ios</title>
+      <link>http://localhost:1313/tags/projects-ios/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/projects-ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IOS</title>
+      <link>http://localhost:1313/tags/ios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ios/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

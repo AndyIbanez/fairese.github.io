@@ -54,7 +54,7 @@ text = "Fairese builds on over a decade of experience supporting mission-critica
 
 [[params.p3.links]]
 text = "Explore past collaborations"
-url = "#"
+url = "/work/clients/"
 
 [[params.p3.logos]]
 image = "images/pages/trax-logo.png"
@@ -115,7 +115,7 @@ alt = "BTS"
     [[menu.work]]
     identifier = "portfolio"
     name = "Portfolio"
-    url = "/portfolio/"
+    url = "work/portfolio/"
     weight = 2
 
     [[menu.work]]
@@ -132,18 +132,18 @@ alt = "BTS"
 
   [[menu.main]]
   identifier = "contact"
-  name = "Contact Me"
+  name = "Contact Us"
   pre = "dropdown"
   weight = 40
 
     [[menu.contact]]
-    identifier = "hire"
+    identifier = "hire-firese"
     name = "Hire Fairese"
     url = "/hire/"
     weight = 1
 
     [[menu.contact]]
-    identifier = "other"
+    identifier = "something-else"
     name = "Something else"
     url = "/contact/other/"
     weight = 2
