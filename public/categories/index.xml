@@ -16,13 +16,6 @@
       <description></description>
     </item>
     <item>
-      <title>Rojects</title>
-      <link>http://localhost:1313/categories/rojects/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/categories/rojects/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>News</title>
       <link>http://localhost:1313/categories/news/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
@@ -32,7 +25,7 @@
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/categories/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0800</pubDate>
       <guid>http://localhost:1313/categories/projects/</guid>
       <description></description>
     </item>

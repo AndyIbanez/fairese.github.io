@@ -3,11 +3,11 @@ title: "Silvianna"
 date: 2021-06-18T00:00:00+08:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/featured-img-placeholder.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
+featured_image: ../assets/images/projects/silvianna-2.png
+summary: Silvianna is an iOS client for anilist.co, a website for anime enthusiasts qho enjoy tracking the anime they watch and the manga they read.
+description: Silvianna is an iOS client for anilist.co, a website for anime enthusiasts qho enjoy tracking the anime they watch and the manga they read.
 categories: projects
-tags: iOS
+tags: projects-ios
 ---
 __Advertisement :smile:__
 
