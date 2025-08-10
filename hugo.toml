@@ -121,7 +121,7 @@ alt = "BTS"
     [[menu.work]]
     identifier = "n8n"
     name = "n8n Automations"
-    url = "/n8n/"
+    url = "work/n8n-automations/"
     weight = 3
 
   [[menu.main]]
