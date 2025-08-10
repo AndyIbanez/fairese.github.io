@@ -109,7 +109,7 @@ alt = "BTS"
     [[menu.work]]
     identifier = "clients"
     name = "Clients"
-    url = "/clients/"
+    url = "/work/clients/"
     weight = 1
 
     [[menu.work]]
