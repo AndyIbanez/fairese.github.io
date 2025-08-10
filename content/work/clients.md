@@ -28,6 +28,8 @@ The work done for TRAX included working on their legacy eMobility apps, fixing a
 
 Work for Sharetec included implementing services from new vendors, fixing bugs in legacy code, and refactoring important components of their iOS app. Coordination with vendors was necessary to integrate key services for their end clients.
 
+---
+
 # Castle Funds
 
 ![Castle Funds Logo](/images/pages/castlefunds-logo.png)
@@ -37,3 +39,25 @@ Work for Sharetec included implementing services from new vendors, fixing bugs i
 ## Contributions
 
 Served as project manager for the development of a new iOS app, guiding the project from concept to delivery. Led a small team consisting of an iOS developer and a QA specialist, coordinating timelines, defining requirements, and maintaining communication with stakeholders. QA efforts included extensive accessibility testing to ensure the app met high usability standards for all users.
+
+---
+
+# Banco Nacional de Bolivia
+
+![BNB Logo](/images/pages/bnb-logo.png)
+
+Founded in 1871, the [Banco Nacional de Bolivia (BNB)](https://www.bnb.com.bo) is among the oldest and most respected financial institutions in the country. As Bolivia’s second-largest bank by assets, BNB provides a full spectrum of banking services—from personal and corporate accounts to mortgages, credit cards, and investment products—delivered across all nine departments through an extensive network of branches and ATMs. The bank is part of BNB Corporación, which includes affiliated entities such as BNB SAFI (fund management), BNB Valores (brokerage), and BNB Leasing, giving it a unique presence in investment, securities, and leasing markets.
+
+## Contributions
+
+Initial work focused on the bank’s flagship customer-facing iOS app, managing the entire lifecycle from development through release. Responsibilities included introducing a structured Git workflow—previously absent—to improve collaboration and code quality. Additional contributions included training a teammate transitioning from Android development to assist on the iOS side. Later, as Software Architect, oversight expanded to all mobile initiatives, including both iOS and Android apps, while also working closely with backend teams to define the web services required for mobile features.
+
+---
+
+# Other Contributions
+
+![BTS Logo](/images/pages/bts-logo.png)
+
+![Dacia Logo](/images/pages/dacia-logo.png)
+
+![Renault Logo](/images/pages/renault-logo.png)
