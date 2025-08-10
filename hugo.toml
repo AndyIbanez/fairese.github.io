@@ -138,7 +138,7 @@ alt = "BTS"
 
     [[menu.contact]]
     identifier = "hire"
-    name = "Hire Me"
+    name = "Hire Fairese"
     url = "/hire/"
     weight = 1
 
@@ -146,6 +146,12 @@ alt = "BTS"
     identifier = "other"
     name = "Something else"
     url = "/contact/other/"
+    weight = 2
+
+    [[menu.contact]]
+    identifier = "appsupport"
+    name = "App Support"
+    url = "/contact/app-support/"
     weight = 2
 
 [[footer]]
