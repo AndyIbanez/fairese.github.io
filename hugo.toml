@@ -139,7 +139,7 @@ alt = "BTS"
 
     [[menu.work]]
     identifier = "portfolio"
-    name = "Portfolio"
+    name = "Our Apps"
     url = "/work/portfolio/"
     weight = 2
 
