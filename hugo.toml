@@ -103,7 +103,7 @@ alt = "BTS"
 
   [[menu.main]]
   identifier = "work"
-  name = "Work"
+  name = "Portfolio"
   pre = "dropdown"
   weight = 20
 
@@ -129,6 +129,12 @@ alt = "BTS"
   identifier = "blog"
   name = "Blog"
   url = "/blog/"
+  weight = 30
+
+  [[menu.main]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
   weight = 30
 
   [[menu.main]]
@@ -171,7 +177,7 @@ alt = "BTS"
   [[menu.footer]]
   identifier = "news"
   name = "News"
-  url = "/categories/news/"
+  url = "/news/"
   weight = 30
 
   [[menu.footer]]
