@@ -32,7 +32,7 @@ text = "If that sounds like the kind of collaboration you're looking for — Fai
 
 [params.p2]
 heading = "Why Fairese Works For You"
-image = "images/pages/hacktoberfest.jpg"
+image = "images/pages/globe-latam-usa.png"
 
 [[params.p2.content]]
 text = "Fairese operates from Bolivia with full alignment to U.S. time zones and native-level English fluency. Clients engage directly with a senior engineer — without layers of project managers or account executives. The result is fast, honest collaboration with a partner who actually ships."
