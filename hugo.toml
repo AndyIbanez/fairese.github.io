@@ -82,6 +82,7 @@ alt = "BTS"
 
 [menu]
 
+  # Main (dropdown groups)
   [[menu.main]]
   identifier = "about"
   name = "About"
@@ -115,13 +116,13 @@ alt = "BTS"
     [[menu.work]]
     identifier = "portfolio"
     name = "Portfolio"
-    url = "work/portfolio/"
+    url = "/work/portfolio/"
     weight = 2
 
     [[menu.work]]
     identifier = "n8n"
     name = "n8n Automations"
-    url = "work/n8n-automations/"
+    url = "/work/n8n-automations/"
     weight = 3
 
   [[menu.main]]
@@ -137,43 +138,44 @@ alt = "BTS"
   weight = 40
 
     [[menu.contact]]
-    identifier = "hire-firese"
+    identifier = "hire-fairese"       # fixed typo
     name = "Hire Fairese"
-    url = "/hire/"
+    url = "/contact/hire-fairese/"
     weight = 1
 
     [[menu.contact]]
     identifier = "something-else"
     name = "Something else"
-    url = "/contact/other/"
+    url = "/contact/something-else/"
     weight = 2
 
     [[menu.contact]]
     identifier = "appsupport"
     name = "App Support"
     url = "/contact/app-support/"
-    weight = 2
+    weight = 3
 
-[[footer]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 10
+  # Footer (must be menu.footer)
+  [[menu.footer]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
 
-[[footer]]
-identifier = "blog"
-name = "Blog"
-url = "/categories/blog/"
-weight = 20
+  [[menu.footer]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 20
 
-[[footer]]
-identifier = "news"
-name = "News"
-url = "/categories/news/"
-weight = 30
+  [[menu.footer]]
+  identifier = "news"
+  name = "News"
+  url = "/categories/news/"
+  weight = 30
 
-[[footer]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 50
+  [[menu.footer]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 50
