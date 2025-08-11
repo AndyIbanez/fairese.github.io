@@ -16,6 +16,13 @@
       <description>Fairese, as a company, has been founded</description>
     </item>
     <item>
+      <title>Consulting</title>
+      <link>http://localhost:1313/services/consulting/</link>
+      <pubDate>Sun, 10 Aug 2025 22:15:00 -0400</pubDate>
+      <guid>http://localhost:1313/services/consulting/</guid>
+      <description>&lt;h1 id=&#34;consulting-services&#34;&gt;Consulting Services&lt;/h1&gt;&#xA;&lt;p&gt;At &lt;strong&gt;Fairese&lt;/strong&gt;, our specialty is &lt;strong&gt;iOS development&lt;/strong&gt; — building exceptional apps for iPhone, iPad, and macOS using &lt;strong&gt;Swift&lt;/strong&gt; and &lt;strong&gt;Objective-C&lt;/strong&gt;. But we also understand that successful products often need more than just great Apple platform code.&lt;/p&gt;&#xA;&lt;p&gt;That’s why, when a project calls for it, &lt;strong&gt;Fairese can contract trusted professionals&lt;/strong&gt; in complementary areas — such as backend development, Android, or design — ensuring your idea becomes a fully realized product without compromising quality.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>iOS Development</title>
       <link>http://localhost:1313/services/ios-development/</link>
       <pubDate>Sun, 10 Aug 2025 22:03:00 -0400</pubDate>
