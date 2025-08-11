@@ -101,6 +101,30 @@ alt = "BTS"
     url = "/about/andy-ibanez/"
     weight = 2
 
+    [[menu.main]]
+    identifier = "our-services"
+    name = "Our Services"
+    pre = "dropdown"
+    weight = 11
+
+      [[menu.our-services]]
+      identifier = "ios-development"
+      name = "iOS Development"
+      url = "/services/ios-development/"
+      weight = 1
+
+      [[menu.our-services]]
+      identifier = "consulting"
+      name = "Consulting"
+      url = "/services/consulting/"
+      weight = 2
+
+      [[menu.our-services]]
+      identifier = "automation"
+      name = "n8n Automations"
+      url = "/services/n8n-automations/"
+      weight = 3
+
   [[menu.main]]
   identifier = "work"
   name = "Portfolio"

@@ -16,6 +16,13 @@
       <description>Fairese, as a company, has been founded</description>
     </item>
     <item>
+      <title>iOS Development</title>
+      <link>http://localhost:1313/services/ios-development/</link>
+      <pubDate>Sun, 10 Aug 2025 22:03:00 -0400</pubDate>
+      <guid>http://localhost:1313/services/ios-development/</guid>
+      <description>&lt;h1 id=&#34;ios-development&#34;&gt;iOS Development&lt;/h1&gt;&#xA;&lt;p&gt;At &lt;strong&gt;Fairese&lt;/strong&gt;, iOS development isn’t just something we offer — it’s our core specialty.&lt;br&gt;&#xA;Our founder, Andy Ibanez, has been building for the Apple ecosystem since &lt;strong&gt;2011&lt;/strong&gt;, delivering polished, performant, and reliable apps for clients across industries. He’s also authored a published book on Swift and served as an architect and tech lead in high-stakes sectors like banking and aviation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-do-best&#34;&gt;What We Do Best&lt;/h2&gt;&#xA;&lt;p&gt;We create &lt;strong&gt;native, high-quality apps&lt;/strong&gt; for &lt;strong&gt;iPhone, iPad, Apple Watch, and Mac&lt;/strong&gt;, leveraging the latest Apple frameworks and technologies, including:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Why I Founded Fairese</title>
       <link>http://localhost:1313/blog/why-i-founded-fairese/</link>
       <pubDate>Sun, 10 Aug 2025 19:21:56 -0400</pubDate>
@@ -24,9 +31,9 @@
     </item>
     <item>
       <title>n8n Automations</title>
-      <link>http://localhost:1313/work/n8n-automations/</link>
+      <link>http://localhost:1313/services/n8n-automations/</link>
       <pubDate>Sun, 10 Aug 2025 19:10:07 -0400</pubDate>
-      <guid>http://localhost:1313/work/n8n-automations/</guid>
+      <guid>http://localhost:1313/services/n8n-automations/</guid>
       <description>&lt;h2 id=&#34;n8n-automation-work&#34;&gt;n8n Automation Work&lt;/h2&gt;&#xA;&lt;p&gt;n8n is a powerful workflow automation tool that connects APIs, databases, and services without heavy custom code. It can be used to automate repetitive tasks, integrate disparate systems, and build data flows that run on a schedule or in real time.&lt;/p&gt;&#xA;&lt;p&gt;Work in this area can include designing and implementing workflows for data processing, API integration, notification systems, and business process automation — either self-hosted or in the cloud — with a focus on maintainable, well-documented automations.&lt;/p&gt;</description>
     </item>
     <item>

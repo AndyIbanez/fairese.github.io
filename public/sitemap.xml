@@ -20,19 +20,25 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-10T22:39:32-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/services/ios-development/</loc>
+    <lastmod>2025-08-10T22:03:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/services/</loc>
+    <lastmod>2025-08-10T22:03:00-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-08-10T19:21:56-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/why-i-founded-fairese/</loc>
     <lastmod>2025-08-10T19:21:56-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work/n8n-automations/</loc>
-    <lastmod>2025-08-10T19:10:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/work/</loc>
+    <loc>http://localhost:1313/services/n8n-automations/</loc>
     <lastmod>2025-08-10T19:10:07-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/work/clients/</loc>
+    <lastmod>2025-07-29T22:37:20-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/work/</loc>
     <lastmod>2025-07-29T22:37:20-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/andy-ibanez/</loc>

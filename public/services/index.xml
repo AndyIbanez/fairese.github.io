@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Fairese</title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on Fairese</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Aug 2025 19:10:07 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n Automations</title>
+      <link>http://localhost:1313/services/n8n-automations/</link>
+      <pubDate>Sun, 10 Aug 2025 19:10:07 -0400</pubDate>
+      <guid>http://localhost:1313/services/n8n-automations/</guid>
+      <description>&lt;h2 id=&#34;n8n-automation-work&#34;&gt;n8n Automation Work&lt;/h2&gt;&#xA;&lt;p&gt;n8n is a powerful workflow automation tool that connects APIs, databases, and services without heavy custom code. It can be used to automate repetitive tasks, integrate disparate systems, and build data flows that run on a schedule or in real time.&lt;/p&gt;&#xA;&lt;p&gt;Work in this area can include designing and implementing workflows for data processing, API integration, notification systems, and business process automation — either self-hosted or in the cloud — with a focus on maintainable, well-documented automations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
