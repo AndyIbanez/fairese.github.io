@@ -200,21 +200,31 @@
     <label>Email</label>
     <input type="email" name="email" required class="w-full" autocomplete="email">
   </div>
+  
+  <div>
+    <label for="project_type">Project Type</label>
+    <select name="project_type" id="project_type" required class="w-full">
+      <option value="iOS Development">iOS Development</option>
+      <option value="Consulting">Consulting</option>
+      <option value="n8n Automation">n8n Automation</option>
+       <option value="Something Else">Something Else</option>
+    </select>
+  </div>
+
+
   <div>
     <label>Message</label>
     <textarea name="message" rows="6" required class="w-full"></textarea>
   </div>
 
-  
   <input type="text" name="company" autocomplete="off" tabindex="-1"
          style="position:absolute;left:-50000px" aria-hidden="true">
 
   
   <div class="cf-turnstile"
-       data-sitekey='0x4AAAAAABq-O4ZcIiMjy5oa'
+       data-sitekey='1x00000000000000000000AA'
        data-action="contact"
-       data-theme="auto"
-       data-testmode="always"></div>
+       data-theme="auto"></div>
 
   <button type="submit">Send</button>
   <p id="contact-status" aria-live="polite" class="text-sm mt-2"></p>
@@ -226,6 +236,17 @@
   const form = document.getElementById('contact-form');
   const status = document.getElementById('contact-status');
 
+  
+  let apiBase;
+  if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
+    apiBase = 'https://fairese.com'; 
+  } else if (location.hostname === 'fairese.com' || location.hostname === 'www.fairese.com') {
+    apiBase = location.origin; 
+  } else {
+    
+    apiBase = 'https://fairese.com';
+  }
+
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
     status.textContent = 'Sending…';
@@ -234,7 +255,7 @@
     const payload = Object.fromEntries(fd.entries()); 
 
     try {
-      const res = await fetch('/api/contact', {
+      const res = await fetch(`${apiBase}/api/contact`, {
         method: 'POST',
         headers: {'Content-Type':'application/json'},
         body: JSON.stringify(payload),
@@ -246,6 +267,7 @@
       form.reset();
       if (window.turnstile) turnstile.reset();
     } catch (err) {
+      console.error('Form submission error:', err);
       status.textContent = 'Something went wrong. Please try again.';
     }
   });
