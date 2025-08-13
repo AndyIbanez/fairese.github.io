@@ -7,6 +7,7 @@ theme = "tailbliss"
 moto = "From compliance to creativity."
 description = "Fairese is a one-man software consultancy led by Sergio Andrés Ibañez Kautsch (known professionally as Andy Ibanez), an iOS developer with a background in aviation, banking, and fintech. He delivers reliable, high-quality software without the overhead of a big agency, and is the author of Modern Concurrency on Apple Platforms."
 author = "Sergio Andrés Ibañez Kautsch"
+turnstileSiteKey = "0x4AAAAAABq-O4ZcIiMjy5oa"
 
 [params.p1]
 heading = "How Fairese Works"
@@ -174,15 +175,15 @@ alt = "BTS"
     weight = 1
 
     [[menu.contact]]
-    identifier = "something-else"
-    name = "Something else"
-    url = "/contact/something-else/"
-    weight = 2
-
-    [[menu.contact]]
     identifier = "appsupport"
     name = "App Support"
     url = "/contact/app-support/"
+    weight = 2
+
+    [[menu.contact]]
+    identifier = "something-else"
+    name = "Something else"
+    url = "/contact/something-else/"
     weight = 3
 
   # Footer (must be menu.footer)

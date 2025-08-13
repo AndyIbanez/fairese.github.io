@@ -1,0 +1,60 @@
+<form id="contact-form" class="space-y-4" novalidate>
+  <div>
+    <label>Name</label>
+    <input type="text" name="name" required class="w-full" autocomplete="name">
+  </div>
+  <div>
+    <label>Email</label>
+    <input type="email" name="email" required class="w-full" autocomplete="email">
+  </div>
+  <div>
+    <label>Message</label>
+    <textarea name="message" rows="6" required class="w-full"></textarea>
+  </div>
+
+  <!-- Honeypot -->
+  <input type="text" name="company" autocomplete="off" tabindex="-1"
+         style="position:absolute;left:-50000px" aria-hidden="true">
+
+  <!-- Turnstile -->
+  <div class="cf-turnstile"
+       data-sitekey='{{ .Site.Params.turnstileSiteKey }}'
+       data-action="contact"
+       data-theme="auto"
+       data-testmode="always"></div>
+
+  <button type="submit">Send</button>
+  <p id="contact-status" aria-live="polite" class="text-sm mt-2"></p>
+</form>
+
+<script defer src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>
+<script>
+(() => {
+  const form = document.getElementById('contact-form');
+  const status = document.getElementById('contact-status');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    status.textContent = 'Sending…';
+
+    const fd = new FormData(form);
+    const payload = Object.fromEntries(fd.entries()); // includes cf-turnstile-response
+
+    try {
+      const res = await fetch('/api/contact', {
+        method: 'POST',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify(payload),
+      });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(data.error || 'Request failed');
+
+      status.textContent = data.message || 'Message sent. Thank you!';
+      form.reset();
+      if (window.turnstile) turnstile.reset();
+    } catch (err) {
+      status.textContent = 'Something went wrong. Please try again.';
+    }
+  });
+})();
+</script>
