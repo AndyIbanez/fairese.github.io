@@ -2,3 +2,211 @@ baseURL = "https://fairese.com/"
 languageCode = "en-us"
 title = "Fairese"
 theme = "tailbliss"
+
+[params]
+moto = "From compliance to creativity."
+description = "Fairese is a one-man software consultancy led by Sergio Andrés Ibañez Kautsch (known professionally as Andy Ibanez), an iOS developer with a background in aviation, banking, and fintech. He delivers reliable, high-quality software without the overhead of a big agency, and is the author of Modern Concurrency on Apple Platforms."
+author = "Sergio Andrés Ibañez Kautsch"
+turnstileSiteKey = "0x4AAAAAABq-O4ZcIiMjy5oa"
+
+[params.p1]
+heading = "How Fairese Works"
+image = "images/pages/how-i-work.png"
+
+[[params.p1.content]]
+text = "Every project Fairese takes on is guided by two forces: precision and imagination. With a background in aviation, banking, and fintech, Fairese brings a mindset shaped by systems, safety, and structure — while still believing the best software needs clarity, warmth, and purpose."
+
+[[params.p1.content]]
+text = "Fairese doesn't build disposable code or chase MVPs. The focus is on long-lasting tools that solve real problems cleanly and scale with calm confidence."
+
+[[params.p1.content]]
+text = "Clients work with Fairese not as a vendor, but as a technical partner. That means thoughtful scoping, honest communication, and careful execution from the first commit to the final handoff."
+
+[[params.p1.content]]
+text = "Whether it’s an internal platform or a public-facing app, the goal remains the same: to deliver software that feels quietly exceptional — well-architected, thoughtfully implemented, and easy to live with."
+
+[[params.p1.content]]
+text = "Fairese works with AI, not against it — but never confuses automation with authorship. Clients don’t get a prompt engineer. They get a partner who knows when to trust the machine — and when to override it."
+
+[[params.p1.content]]
+text = "If that sounds like the kind of collaboration you're looking for — Fairese is ready to help."
+
+[params.p2]
+heading = "Why Fairese Works For You"
+image = "images/pages/globe-latam-usa.png"
+
+[[params.p2.content]]
+text = "Fairese operates from Bolivia with full alignment to U.S. time zones and native-level English fluency. Clients engage directly with a senior engineer — without layers of project managers or account executives. The result is fast, honest collaboration with a partner who actually ships."
+
+[[params.p2.content]]
+text = "Rather than impose a process, Fairese adapts to the client’s workflow. Whether it's GitHub, Notion, Jira, or custom tooling — integration is seamless and communication remains tight. Async updates, daily standups, or weekly demos are all supported."
+
+[[params.p2.content]]
+text = "Every deliverable is production-ready: readable, tested code designed for long-term stability. Fairese also understands when speed matters — simplifying with purpose and never padding estimates."
+
+[[params.p2.content]]
+text = "Clients don't just get a coder — they get a thinking partner. Fairese challenges assumptions, surfaces edge cases, and brings creative clarity to complex ideas. That’s why companies trust Fairese with core systems and long-term initiatives."
+
+[params.p3]
+heading = "Clients who trust this work"
+
+[[params.p3.content]]
+text = "Fairese builds on over a decade of experience supporting mission-critical teams across aviation, banking, and fintech. From internal tools to production systems, this work has supported high-stakes operations with clarity, reliability, and long-term maintainability."
+
+[[params.p3.links]]
+text = "Explore past collaborations"
+url = "/work/clients/"
+
+[[params.p3.logos]]
+image = "images/pages/trax-logo.png"
+alt = "Trax"
+
+[[params.p3.logos]]
+image = "images/pages/sharetec-logo.png"
+alt = "Sharetec"
+
+[[params.p3.logos]]
+image = "images/pages/dacia-logo.png"
+alt = "Dacia"
+
+[[params.p3.logos]]
+image = "images/pages/renault-logo.png"
+alt = "Renault"
+
+[[params.p3.logos]]
+image = "images/pages/bnb-logo.png"
+alt = "BNB"
+
+[[params.p3.logos]]
+image = "images/pages/bts-logo.png"
+alt = "BTS"
+
+[menu]
+
+  # Main (dropdown groups)
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  pre = "dropdown"
+  weight = 10
+
+    [[menu.about]]
+    identifier = "about-fairese"
+    name = "About Fairese"
+    url = "/about/fairese/"
+    weight = 1
+
+    [[menu.about]]
+    identifier = "about-andy"
+    name = "About Andy Ibanez"
+    url = "/about/andy-ibanez/"
+    weight = 2
+
+    [[menu.main]]
+    identifier = "our-services"
+    name = "Our Services"
+    pre = "dropdown"
+    weight = 11
+
+      [[menu.our-services]]
+      identifier = "ios-development"
+      name = "iOS Development"
+      url = "/services/ios-development/"
+      weight = 1
+
+      [[menu.our-services]]
+      identifier = "consulting"
+      name = "Consulting"
+      url = "/services/consulting/"
+      weight = 2
+
+      [[menu.our-services]]
+      identifier = "automation"
+      name = "n8n Automations"
+      url = "/services/n8n-automations/"
+      weight = 3
+
+  [[menu.main]]
+  identifier = "work"
+  name = "Portfolio"
+  pre = "dropdown"
+  weight = 20
+
+    [[menu.work]]
+    identifier = "clients"
+    name = "Clients"
+    url = "/work/clients/"
+    weight = 1
+
+    [[menu.work]]
+    identifier = "portfolio"
+    name = "Our Apps"
+    url = "/work/portfolio/"
+    weight = 2
+
+    [[menu.work]]
+    identifier = "n8n"
+    name = "n8n Automations"
+    url = "/work/n8n-automations/"
+    weight = 3
+
+  [[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 30
+
+  [[menu.main]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
+  weight = 30
+
+  [[menu.main]]
+  identifier = "contact"
+  name = "Contact Us"
+  pre = "dropdown"
+  weight = 40
+
+    [[menu.contact]]
+    identifier = "hire-fairese"       # fixed typo
+    name = "Hire Fairese"
+    url = "/contact/hire-fairese/"
+    weight = 1
+
+    [[menu.contact]]
+    identifier = "appsupport"
+    name = "App Support"
+    url = "/contact/app-support/"
+    weight = 2
+
+    [[menu.contact]]
+    identifier = "something-else"
+    name = "Something else"
+    url = "/contact/something-else/"
+    weight = 3
+
+  # Footer (must be menu.footer)
+  [[menu.footer]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+  [[menu.footer]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 20
+
+  [[menu.footer]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
+  weight = 30
+
+  [[menu.footer]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 50

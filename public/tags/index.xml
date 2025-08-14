@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Fairese</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jun 2022 11:10:36 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 22:39:32 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Company</title>
+      <link>http://localhost:1313/tags/company/</link>
+      <pubDate>Sun, 10 Aug 2025 22:39:32 -0400</pubDate>
+      <guid>http://localhost:1313/tags/company/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foundation</title>
+      <link>http://localhost:1313/tags/foundation/</link>
+      <pubDate>Sun, 10 Aug 2025 22:39:32 -0400</pubDate>
+      <guid>http://localhost:1313/tags/foundation/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blog</title>
       <link>http://localhost:1313/tags/blog/</link>
@@ -20,6 +34,13 @@
       <link>http://localhost:1313/tags/news/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
       <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects-Ios</title>
+      <link>http://localhost:1313/tags/projects-ios/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/projects-ios/</guid>
       <description></description>
     </item>
   </channel>

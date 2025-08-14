@@ -1,5 +1,5 @@
-baseURL: ''
-title: TailBliss
+baseURL: 'https://www.fairese.com'
+title: Fairese
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -11,6 +11,7 @@ pagination:
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
+theme: tailbliss
 
 markup:
   goldmark:
@@ -99,16 +100,16 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/orgs/Fairese/people'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://www.facebook.com/fairese'
     instagram:
-      enabled: true
+      enabled: false
       url: 'https://instagram.com/nusserstudios'
     twitter:
       enabled: true
-      url: 'https://twitter.com/nusserstudios'
+      url: 'https://x.com/fairesetech'
     
 
 menu:
