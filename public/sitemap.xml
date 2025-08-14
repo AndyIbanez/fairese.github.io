@@ -135,6 +135,8 @@
   </url><url>
     <loc>http://localhost:1313/contact/hire-fairese/</loc>
   </url><url>
+    <loc>http://localhost:1313/contact/something-else/</loc>
+  </url><url>
     <loc>http://localhost:1313/contact/thank-you/</loc>
   </url>
 </urlset>
