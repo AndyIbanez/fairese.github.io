@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fairese</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Fairese</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Aug 2025 22:39:32 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fairese Has Been Founded</title>
+      <link>http://localhost:1313/news/fairese-has-been-founded/</link>
+      <pubDate>Sun, 10 Aug 2025 22:39:32 -0400</pubDate>
+      <guid>http://localhost:1313/news/fairese-has-been-founded/</guid>
+      <description>Fairese, as a company, has been founded</description>
+    </item>
+    <item>
+      <title>Consulting</title>
+      <link>http://localhost:1313/services/consulting/</link>
+      <pubDate>Sun, 10 Aug 2025 22:15:00 -0400</pubDate>
+      <guid>http://localhost:1313/services/consulting/</guid>
+      <description>&lt;h1 id=&#34;consulting-services&#34;&gt;Consulting Services&lt;/h1&gt;&#xA;&lt;p&gt;At &lt;strong&gt;Fairese&lt;/strong&gt;, our specialty is &lt;strong&gt;iOS development&lt;/strong&gt; — building exceptional apps for iPhone, iPad, and macOS using &lt;strong&gt;Swift&lt;/strong&gt; and &lt;strong&gt;Objective-C&lt;/strong&gt;. But we also understand that successful products often need more than just great Apple platform code.&lt;/p&gt;&#xA;&lt;p&gt;That’s why, when a project calls for it, &lt;strong&gt;Fairese can contract trusted professionals&lt;/strong&gt; in complementary areas — such as backend development, Android, or design — ensuring your idea becomes a fully realized product without compromising quality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iOS Development</title>
+      <link>http://localhost:1313/services/ios-development/</link>
+      <pubDate>Sun, 10 Aug 2025 22:03:00 -0400</pubDate>
+      <guid>http://localhost:1313/services/ios-development/</guid>
+      <description>&lt;h1 id=&#34;ios-development&#34;&gt;iOS Development&lt;/h1&gt;&#xA;&lt;p&gt;At &lt;strong&gt;Fairese&lt;/strong&gt;, iOS development isn’t just something we offer — it’s our core specialty.&lt;br&gt;&#xA;Our founder, Andy Ibanez, has been building for the Apple ecosystem since &lt;strong&gt;2011&lt;/strong&gt;, delivering polished, performant, and reliable apps for clients across industries. He’s also authored a published book on Swift and served as an architect and tech lead in high-stakes sectors like banking and aviation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-do-best&#34;&gt;What We Do Best&lt;/h2&gt;&#xA;&lt;p&gt;We create &lt;strong&gt;native, high-quality apps&lt;/strong&gt; for &lt;strong&gt;iPhone, iPad, Apple Watch, and Mac&lt;/strong&gt;, leveraging the latest Apple frameworks and technologies, including:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I Founded Fairese</title>
+      <link>http://localhost:1313/blog/why-i-founded-fairese/</link>
+      <pubDate>Sun, 10 Aug 2025 19:21:56 -0400</pubDate>
+      <guid>http://localhost:1313/blog/why-i-founded-fairese/</guid>
+      <description>Read about the motivations that led to the creation of Fairese, a software development house from the Andes.</description>
+    </item>
+    <item>
+      <title>n8n Automations</title>
+      <link>http://localhost:1313/services/n8n-automations/</link>
+      <pubDate>Sun, 10 Aug 2025 19:10:07 -0400</pubDate>
+      <guid>http://localhost:1313/services/n8n-automations/</guid>
+      <description>&lt;h2 id=&#34;n8n-automation-work&#34;&gt;n8n Automation Work&lt;/h2&gt;&#xA;&lt;p&gt;n8n is a powerful workflow automation tool that connects APIs, databases, and services without heavy custom code. It can be used to automate repetitive tasks, integrate disparate systems, and build data flows that run on a schedule or in real time.&lt;/p&gt;&#xA;&lt;p&gt;Work in this area can include designing and implementing workflows for data processing, API integration, notification systems, and business process automation — either self-hosted or in the cloud — with a focus on maintainable, well-documented automations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clients</title>
+      <link>http://localhost:1313/work/clients/</link>
+      <pubDate>Tue, 29 Jul 2025 22:37:20 -0400</pubDate>
+      <guid>http://localhost:1313/work/clients/</guid>
+      <description>&lt;p&gt;Before founding Fairese LLC, Andy Ibanez collaborated with a range of clients and companies across various industries. This page highlights a curated selection of those collaborations, though it is not a complete list. Some projects are omitted due to NDAs or other confidentiality agreements.&lt;/p&gt;&#xA;&lt;h1 id=&#34;trax-aero&#34;&gt;TRAX Aero&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pages/trax-logo.png&#34; alt=&#34;TRAX Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.trax.aero&#34;&gt;TRAX&lt;/a&gt; develops software for the airplane maintenance industry. Trax started as a small mom-and-pop shop back in 1997 and it has grown to become one of the most important companies in the industry. Serving over 225 clients, it delivers mission-critical solutions to airlines and maintenance organizations worldwide. TRAX offers its &lt;a href=&#34;https://www.trax.aero/products/emobility/&#34;&gt;eMobility&lt;/a&gt; suite of apps, all of which serve a different purpose for personnel in the aircraft maintenance industry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Andy Ibanez</title>
+      <link>http://localhost:1313/about/andy-ibanez/</link>
+      <pubDate>Sun, 27 Jul 2025 21:00:29 -0400</pubDate>
+      <guid>http://localhost:1313/about/andy-ibanez/</guid>
+      <description>&lt;h3 id=&#34;andy-ibanez&#34;&gt;Andy Ibanez&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://andyibanez.com&#34;&gt;Andy Ibanez&lt;/a&gt; is a senior software developer with over a decade of experience building native applications for Apple platforms. Based in La Paz, Bolivia, he works internationally under Fairese LLC, combining technical expertise with a philosophy of simplicity and maintainability.&lt;/p&gt;&#xA;&lt;p&gt;Andy began writing iOS apps in 2011. He witnessed — and adopted — every major transition in the Apple development ecosystem, from Objective-C to Swift, from UIKit to SwiftUI, and from imperative code to declarative design. Over the years, he’s built and shipped dozens of apps, modernized legacy systems, and written secure protocols for sensitive industries. His technical range spans both sides of the software timeline: building new apps from scratch and refactoring older codebases for long-term maintainability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Fairese</title>
+      <link>http://localhost:1313/about/fairese/</link>
+      <pubDate>Sun, 27 Jul 2025 19:06:45 -0400</pubDate>
+      <guid>http://localhost:1313/about/fairese/</guid>
+      <description>&lt;h3 id=&#34;fairese-llc-native-ios-expertise-from-the-andes&#34;&gt;Fairese LLC: Native iOS Expertise from the Andes&lt;/h3&gt;&#xA;&lt;p&gt;Fairese LLC is a U.S.-registered software company founded by Sergio Andrés Ibañez Kautsch, also known as &lt;a href=&#34;https://andyibanez.com&#34;&gt;Andy Ibanez&lt;/a&gt;. While officially based in the United States, all development takes place remotely from Bolivia — a country of striking natural beauty, where the snowcapped Illimani towers over La Paz and the salt flats of Uyuni stretch across the Altiplano. With reliable infrastructure, strong overlap with U.S. time zones, and a quiet focus-friendly environment, Bolivia makes an ideal base for high-quality remote work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 27 Jul 2025 19:06:45 -0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;fairese&#34;&gt;About Fairese&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;about/andy-ibanez&#34;&gt;About Andy Ibanez&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Blog Post 1</title>
+      <link>http://localhost:1313/posts/blog-post-1/</link>
+      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/blog-post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>News Post 1</title>
+      <link>http://localhost:1313/posts/news-post-1/</link>
+      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/news-post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>News Post 2</title>
+      <link>http://localhost:1313/posts/news-post-2/</link>
+      <pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/news-post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>News Post 4</title>
+      <link>http://localhost:1313/posts/news-post-4/</link>
+      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/news-post-4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News Post 5</title>
+      <link>http://localhost:1313/posts/news-post-5/</link>
+      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/news-post-5/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News Post 6</title>
+      <link>http://localhost:1313/posts/news-post-6/</link>
+      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/news-post-6/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News Post 7</title>
+      <link>http://localhost:1313/posts/news-post-7/</link>
+      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/news-post-7/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog Post 2</title>
+      <link>http://localhost:1313/posts/blog-post-2/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/blog-post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 3</title>
+      <link>http://localhost:1313/posts/blog-post-3/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/blog-post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 4</title>
+      <link>http://localhost:1313/posts/blog-post-4/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/blog-post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 5</title>
+      <link>http://localhost:1313/posts/blog-post-5/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/blog-post-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 6</title>
+      <link>http://localhost:1313/posts/blog-post-6/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/blog-post-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 7</title>
+      <link>http://localhost:1313/posts/blog-post-7/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/blog-post-7/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>News Post 3</title>
+      <link>http://localhost:1313/posts/news-post-3/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/news-post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Prose</title>
+      <link>http://localhost:1313/prose/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/prose/</guid>
+      <description>&lt;h2 id=&#34;tailwindcsstypography&#34;&gt;@tailwindcss/typography&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tailwindlabs/tailwindcss-typography&#34;&gt;View on GitHub&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&lt;/p&gt;&#xA;&lt;p&gt;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&lt;/p&gt;&#xA;&lt;p&gt;Tailwind CSS IntelliSense extension for Visual Studio Code&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;&#xA;  {{ markdown }}&#xD;&#xA;&amp;lt;/article&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To see what it looks like in action, check out our &lt;a href=&#34;https://play.tailwindcss.com/uj1vGACRJA?layout=preview&#34;&gt;live demo&lt;/a&gt; on Tailwind Play.&#xA;​&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Silvianna</title>
+      <link>http://localhost:1313/work/portfolio/silvianna/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/work/portfolio/silvianna/</guid>
+      <description>Silvianna is an iOS client for anilist.co, a website for anime enthusiasts qho enjoy tracking the anime they watch and the manga they read.</description>
+    </item>
+    <item>
+      <title>App Support</title>
+      <link>http://localhost:1313/contact/app-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/app-support/</guid>
+      <description>&lt;p&gt;To contact us, simply select the app you need help with from the dropdown and write your message. Please use a real email address if you expect to hear back from us.&lt;/p&gt;&#xA;&lt;form action=&#34;https://api.web3forms.com/submit&#34; method=&#34;POST&#34; accept-charset=&#34;UTF-8&#34; class=&#34;space-y-6&#34; novalidate&gt;&#xA;  &#xA;  &lt;input type=&#34;hidden&#34; name=&#34;access_key&#34; value=&#34;3bcaea0e-4c52-4925-94a6-4faac6a9f877&#34;&gt;&#xA;&#xA;  &#xA;  &lt;input type=&#34;hidden&#34; name=&#34;subject&#34; value=&#34;New Hire Fairese inquiry&#34;&gt;&#xA;&#xA;  &#xA;  &lt;input type=&#34;hidden&#34; name=&#34;redirect&#34; value=&#34;https://fairese.com/contact/thank-you/&#34;&gt;&#xA;&#xA;  &lt;div&gt;&#xA;    &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Name&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; name=&#34;name&#34; required autocomplete=&#34;name&#34;&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div&gt;&#xA;    &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Email&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; name=&#34;email&#34; required autocomplete=&#34;email&#34;&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;label for=&#34;app_name&#34; class=&#34;block text-sm font-medium text-gray-700&#34;&gt;App&lt;/label&gt;&#xA;    &lt;select name=&#34;app_name&#34; id=&#34;app_name&#34; required&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 bg-white shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&#xA;      &lt;option value=&#34;Silvianna&#34;&gt;Silvianna&lt;/option&gt;&#xA;    &lt;/select&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;&#xA;  &lt;div&gt;&#xA;    &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea name=&#34;message&#34; rows=&#34;6&#34; required&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&lt;/textarea&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &lt;input type=&#34;text&#34; name=&#34;website&#34; tabindex=&#34;-1&#34; autocomplete=&#34;off&#34; style=&#34;position:absolute;left:-9999px&#34;&gt;&#xA;&#xA;  &lt;button type=&#34;submit&#34; &#xA;    class=&#34;px-8 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-bold rounded-full shadow-lg transition transform hover:scale-105&#34;&gt;&#xA;    Send Message&#xA;  &lt;/button&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>Hire Fairese</title>
+      <link>http://localhost:1313/contact/hire-fairese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/hire-fairese/</guid>
+      <description>&lt;p&gt;Ready to move your project forward? Use the form below to tell us what you need. Share a brief overview, timeline, and any must‑have features. We’ll reply within one business day.&lt;/p&gt;&#xA;&lt;form action=&#34;https://api.web3forms.com/submit&#34; method=&#34;POST&#34; accept-charset=&#34;UTF-8&#34; class=&#34;space-y-6&#34; novalidate&gt;&#xA;  &#xA;  &lt;input type=&#34;hidden&#34; name=&#34;access_key&#34; value=&#34;3bcaea0e-4c52-4925-94a6-4faac6a9f877&#34;&gt;&#xA;&#xA;  &#xA;  &lt;input type=&#34;hidden&#34; name=&#34;subject&#34; value=&#34;New Hire Fairese inquiry&#34;&gt;&#xA;&#xA;  &#xA;  &lt;input type=&#34;hidden&#34; name=&#34;redirect&#34; value=&#34;https://fairese.com/contact/thank-you/&#34;&gt;&#xA;&#xA;  &lt;div&gt;&#xA;    &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Name&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; name=&#34;name&#34; required autocomplete=&#34;name&#34;&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div&gt;&#xA;    &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Email&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; name=&#34;email&#34; required autocomplete=&#34;email&#34;&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;label for=&#34;project_type&#34; class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Project Type&lt;/label&gt;&#xA;    &lt;select name=&#34;project_type&#34; id=&#34;project_type&#34; required&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 bg-white shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&#xA;      &lt;option value=&#34;iOS Development&#34;&gt;iOS Development&lt;/option&gt;&#xA;      &lt;option value=&#34;Consulting&#34;&gt;Consulting&lt;/option&gt;&#xA;      &lt;option value=&#34;n8n Automation&#34;&gt;n8n Automation&lt;/option&gt;&#xA;      &lt;option value=&#34;Something Else&#34;&gt;Something Else&lt;/option&gt;&#xA;    &lt;/select&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;&#xA;  &#xA;&#xA;  &lt;div&gt;&#xA;    &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea name=&#34;message&#34; rows=&#34;6&#34; required&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&lt;/textarea&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &lt;input type=&#34;text&#34; name=&#34;website&#34; tabindex=&#34;-1&#34; autocomplete=&#34;off&#34; style=&#34;position:absolute;left:-9999px&#34;&gt;&#xA;&#xA;  &lt;button type=&#34;submit&#34; &#xA;    class=&#34;px-8 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-bold rounded-full shadow-lg transition transform hover:scale-105&#34;&gt;&#xA;    Send Message&#xA;  &lt;/button&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>Something Else</title>
+      <link>http://localhost:1313/contact/something-else/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/something-else/</guid>
+      <description>&lt;p&gt;Is there anything else we can help you with that is not covered in any of the other contact forms? Feel free to use this form to reach out to us. We will reply within a business day.&lt;/p&gt;&#xA;&lt;form action=&#34;https://api.web3forms.com/submit&#34; method=&#34;POST&#34; accept-charset=&#34;UTF-8&#34; class=&#34;space-y-6&#34; novalidate&gt;&#xA;  &#xA;  &lt;input type=&#34;hidden&#34; name=&#34;access_key&#34; value=&#34;3bcaea0e-4c52-4925-94a6-4faac6a9f877&#34;&gt;&#xA;&#xA;  &#xA;  &lt;input type=&#34;hidden&#34; name=&#34;subject&#34; value=&#34;New Hire Fairese inquiry&#34;&gt;&#xA;&#xA;  &#xA;  &lt;input type=&#34;hidden&#34; name=&#34;redirect&#34; value=&#34;https://fairese.com/contact/thank-you/&#34;&gt;&#xA;&#xA;  &lt;div&gt;&#xA;    &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Name&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; name=&#34;name&#34; required autocomplete=&#34;name&#34;&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div&gt;&#xA;    &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Email&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; name=&#34;email&#34; required autocomplete=&#34;email&#34;&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;  &lt;div&gt;&#xA;    &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea name=&#34;message&#34; rows=&#34;6&#34; required&#xA;      class=&#34;mt-1 block w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-base p-3&#34;&gt;&lt;/textarea&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &lt;input type=&#34;text&#34; name=&#34;website&#34; tabindex=&#34;-1&#34; autocomplete=&#34;off&#34; style=&#34;position:absolute;left:-9999px&#34;&gt;&#xA;&#xA;  &lt;button type=&#34;submit&#34; &#xA;    class=&#34;px-8 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-bold rounded-full shadow-lg transition transform hover:scale-105&#34;&gt;&#xA;    Send Message&#xA;  &lt;/button&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>Thank You</title>
+      <link>http://localhost:1313/contact/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/thank-you/</guid>
+      <description>&lt;p&gt;Thank you for your message — we’ll get back to you soon.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
